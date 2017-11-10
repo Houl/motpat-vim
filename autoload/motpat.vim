@@ -6,10 +6,6 @@
 " Author:	Andy Wokula <anwoku@yahoo.de>
 " License:	Vim License, see :h license
 
-" TODO
-" - convert '^@' to '\n' or '^V^@' ?
-" - mixed language of error messages
-
 let s:cpo_save = &cpo
 set cpo&vim
 
