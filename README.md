@@ -1,2 +1,1 @@
-# nwolib-vim
-Helper functions
+# motpat-vim
